@@ -1,0 +1,13 @@
+format: jb-book
+root: about/syllabus
+parts:
+- caption: Week 9 - Conservation of Energy
+  chapters:
+  - file: class/week01/videos
+  - file: class/week01/lecture
+  - file: class/week01/readings
+
+- caption: Course Feedback
+  chapters:
+  - file: about/feedback
+    title: Anonymous Feedback Form
