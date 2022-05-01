@@ -71,3 +71,5 @@ Below are some additional content and resources that might be helpful for your l
 Following the lecture, the slides with the answers to the clicker questions will be posted here.
 
 <iframe src="../../lecture.pdf" width="100%" height="400px" frameBorder="0"> </iframe>
+
+- Random edit
