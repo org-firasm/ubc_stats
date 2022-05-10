@@ -1,11 +1,10 @@
 format: jb-book
 root: about/syllabus
 parts:
-- caption: Week 9 - Conservation of Energy
+- caption: Class 5 - Multicollinearity
   chapters:
   - file: class/week01/videos
-  - file: class/week01/lecture
-  - file: class/week01/readings
+  - file: class/week01/class
 
 - caption: Course Feedback
   chapters:
