@@ -43,6 +43,8 @@ jobs:
     - run: Rscript -e "install.packages('cowplot')"
     - run: Rscript -e "install.packages('tidyverse')"
     - run: Rscript -e "install.packages('moderndive')"
+    - run: Rscript -e "install.packages('GGally')"
+
     
     # Build the book
     - name: Build the book
