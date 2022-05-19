@@ -3,6 +3,7 @@ root: about/syllabus
 parts:
 - caption: Class 5 - Multicollinearity
   chapters:
+  - file: class/week01/worksheet
   - file: class/week01/class
   - file: class/week01/lab
 
