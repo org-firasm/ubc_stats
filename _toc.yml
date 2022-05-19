@@ -4,8 +4,11 @@ parts:
 - caption: Class 5 - Multicollinearity
   chapters:
   - file: class/week01/worksheet
+    title: Class Worksheet
   - file: class/week01/class
+    title: Class Notes
   - file: class/week01/lab
+    title: Lab
 
 - caption: Course Feedback
   chapters:
