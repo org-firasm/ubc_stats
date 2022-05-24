@@ -7,8 +7,10 @@ parts:
     title: Class Worksheet
   - file: class/week01/class
     title: Class Notes
-  - file: class/week01/lab
+  - file: class/week01/lab_students
     title: Lab
+  - file: class/week01/lab
+    title: Lab Solutions
 
 - caption: Course Feedback
   chapters:
